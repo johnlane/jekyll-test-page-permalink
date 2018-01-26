@@ -44,6 +44,9 @@ plugins:
 include:
   - _pages
 
+pagination:
+  enabled: true
+
 defaults:
   - scope:
       path: "_pages"
